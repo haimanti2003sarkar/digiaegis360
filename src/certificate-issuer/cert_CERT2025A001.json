@@ -1,0 +1,10 @@
+{
+  "name": "Alice Example",
+  "rollNo": "2025CSE001",
+  "certificateId": "CERT2025A001",
+  "institution": "Sample University",
+  "course": "Computer Science",
+  "marks": "91%",
+  "imagePath": "sample_certificate_image.jpg",
+  "signature": "d9eb58f280e7fddad1c47f3e7fdab04981483f55d7f1437c27a386f3b46d68a2"
+}

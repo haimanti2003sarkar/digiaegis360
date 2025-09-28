@@ -1,0 +1,10 @@
+{
+  "name": "Alice Example",
+  "rollNo": "2025CSE001",
+  "institution": "Sample University",
+  "course": "Computer Science",
+  "marks": "91%",
+  "issueDate": "2025-09-29",
+  "imagePath": "sample_certificate_image.jpg",
+  "signature": "1fc8ae803951e716f50e1f37a22cf68a40787e83b4ca04f5649579bba2453d28"
+}

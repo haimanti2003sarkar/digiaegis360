@@ -1,0 +1,12 @@
+{
+  "name": "certificate-issuer",
+  "version": "1.0.0",
+  "main": "issue.js",
+  "type": "commonjs",
+  "scripts": {
+    "issue": "node issue.js"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.3"
+  }
+}
